@@ -22,7 +22,7 @@ Research Java's initialization blocks and static blocks to understand this conce
 # 🛠️ Installation
 1. Clone this repository:
    ```sh
-   git clone <repository_url>
+   git clone <(https://github.com/IgnaSubirachs/S1.01.Inheritance_polymorphism.L1.EX1.git)>
    ```
 2. Navigate to the project directory:
    ```sh
@@ -42,10 +42,8 @@ Research Java's initialization blocks and static blocks to understand this conce
    ```
 3. Observe the console output to see how different instruments produce different sounds.
 
-# 🌐 Deployment
-This is a simple Java console application that does not require deployment to a server. However, it can be packaged as a JAR file for distribution:
-```sh
-jar cfv Instruments.jar *.class
+
+
 ```
 
 
